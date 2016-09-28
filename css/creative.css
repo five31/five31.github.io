@@ -1,3 +1,18 @@
+.iconTrio {
+  box-shadow: 0 5px 10px 1px rgba(0, 0, 0, 0.25);
+}
+#mainNav {
+  border: none;
+}
+.bg-light {
+  background: #eeeeee;
+}
+.primaryPink {
+  color: #ef476f;
+}
+.primaryBlue {
+  color: #073b4c;
+}
 html,
 body {
   height: 100%;
@@ -409,3 +424,4 @@ img::-moz-selection {
 body {
   webkit-tap-highlight-color: #222222;
 }
+/*# sourceMappingURL=creative.css.map */
